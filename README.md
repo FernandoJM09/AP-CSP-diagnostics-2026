@@ -40,7 +40,7 @@ For most of you, this assessment will mean absolutely nothing to you. It's one t
 3. Save and make sure your changes is also in your repository on GitHub
 
 ### Task D: Reflection
-1. Create a file titled `reflection.md`
+1. Create a file titled `reflection_yourname.md`, like `reflection_timothychang.md`, in the same folder as the introductory `README.md`
 2. Answer the following prompt
   - What was the first thing you did when you opened this repository?
   - What was the most confusing moment?
